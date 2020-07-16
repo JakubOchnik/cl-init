@@ -1,4 +1,4 @@
-### Quick OpenCL initialization
+# Quick OpenCL initialization
 A simple C++ class which allows a user to quickly initalize devices, load platforms, create context and command queue.
 Get rid of typing the same boilerplate code all over again!
 ## List of available methods
